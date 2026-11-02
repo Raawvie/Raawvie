@@ -77,15 +77,15 @@
 
 <div align="center">
   <a href="https://github.com/Raawvie">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=Raawvie&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=E6EDF3&ring_color=A78BFA" alt="Raawvie's GitHub statistics" />
+    <img height="175" src="https://github-stats-extended.vercel.app/api?username=Raawvie&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=E6EDF3&ring_color=A78BFA" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Raawvie">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raawvie&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3" alt="Most-used languages on GitHub" />
+    <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Raawvie&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3" alt="Top Languages" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Raawvie&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Raawvie&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub Streak" />
 </div>
 
 ## 🚀 &nbsp; Find something cool
